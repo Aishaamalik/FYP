@@ -6,5 +6,4 @@ Developed an AI-driven fuel management system designed to revolutionize the fuel
 
 Watch the demo video to see the system in action:
 
-[![Watch the Video](https://youtu.be/uhGLqvBuRlM?feature=shared )
-
+[![Watch the Video](https://img.youtube.com/vi/uhGLqvBuRlM/0.jpg)](https://youtu.be/uhGLqvBuRlM?feature=shared)
