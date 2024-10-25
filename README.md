@@ -6,4 +6,4 @@ Developed an AI-driven fuel management system designed to revolutionize the fuel
 
 Watch the demo video to see the system in action:
 
-[![Watch the Video](https://www.youtube.com/watch?v=Q57RqatW5Go&ab_channel=AyeshaMalik)
+[![Watch the Video](https://img.youtube.com/vi/Q57RqatW5Go/0.jpg)](https://www.youtube.com/watch?v=Q57RqatW5Go&ab_channel=AyeshaMalik)
